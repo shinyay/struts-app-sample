@@ -1,4 +1,4 @@
-package com.google.shinyay;
+package com.google.shinyay.entity;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
